@@ -2,6 +2,6 @@
 
 ## Actividades realizadas en la semana
 
-## Actividades a realizar la ppróxima semana
+## Actividades a realizar la próxima semana
 
 ## Dudas
