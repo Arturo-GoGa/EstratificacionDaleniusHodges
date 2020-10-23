@@ -1,14 +1,16 @@
-##Semana del 14 - 20 de septiembre
-Actividades Realizadas
+##Semana del 21 - 27 de septiembre 
 
-Curso de SIG aplicado a la Gestión Municipal.
-Del Módulo 1 al Módulo 9.
+###Actividades Realizadas
 
-Actividades para semana próxima
+- Curso de SIG aplicado a la Gestión Municipal completado.
+- Caso de Prueba.
+- Herramienta de Selección en el script (Para acercamiento)
 
-Culminación de Curso Aplicado a la gestión Municipal.
-Introducción a herramienta Script.
-Avances en casos de prueba.
-Dudas Sin dudas
+###Actividades para semana próxima
 
-Arturo González. Saludos
+- Desarrollo del código para el geoprocesamiento D&H 
+
+###Dudas
+- En cuestión de los casos de prueba el numero identificador se lo tengo que poner yo o se cuándo lo agregue a gvSIG me dará uno?
+- Para la parte de reportar fallo el enlace que marca es en general o debo poner alguno en específico. 
+
