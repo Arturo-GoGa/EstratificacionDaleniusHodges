@@ -27,17 +27,16 @@ Los intervalos se tomarán abiertos por la izquierda y cerrados por la derecha, 
 
 4.	A partir de estos límites, obtener la frecuencia de observaciones en cada clase
 
-f<sub>i</sub>	_i_ ∈ {1, … , J}.
+> f<sub>i</sub>	_i_ ∈ {1, … , J}.
 
 5.	Calcular la raíz cuadrada de frecuencia en cada clase.
 
-6.	Acumular la raíz cuadrada de las frecuencias en cada clase 	.
-i1
+6.	Acumular la raíz cuadrada de las frecuencias en cada clase 
+
+![formula](https://github.com/Arturo-GoGa/IMAGENES/blob/main/1.PNG)
 
 7.	Dividir la suma de la raíz cuadrada de las frecuencias por el número de estratos:
 
-1 J
-Q	.
-i1
+![formula](https://github.com/Arturo-GoGa/IMAGENES/blob/main/2.PNG)
 
 8.	Los puntos de corte de cada estrato se tomarán sobre el acumulado de la raíz cuadrada de las frecuencias en cada clase de acuerdo a lo siguiente: Q, 2Q, … , (h — 1)Q. Si el valor de Q queda entre dos clases, se tomará como punto de corte aquella clase que presente la mínima distancia a _Q_. Los límites de los h estratos conformados serán aquellos correspondientes a los límites inferior y superior de las clases comprendidas en cada estrato.
