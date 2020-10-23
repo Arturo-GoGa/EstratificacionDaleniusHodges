@@ -1,17 +1,17 @@
-##Semana del 14 - 20 de septiembre 
+## Semana del 14 - 20 de septiembre 
 
-###Actividades Realizadas
+### Actividades Realizadas
 
 * Curso de SIG aplicado a la Gestión Municipal.
 > Del Módulo 1 al Módulo 9. 
 
-###Actividades para semana próxima
+### Actividades para semana próxima
 
 * Culminación de Curso Aplicado a la gestión Municipal.
 * Introducción a herramienta Script. 
 * Avances en casos de prueba.
 
-###Dudas
+### Dudas
 Sin dudas
 
 Arturo González.
