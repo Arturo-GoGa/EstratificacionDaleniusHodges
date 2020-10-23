@@ -1,4 +1,4 @@
-Semana del 14 - 20 de septiembre
+##Semana del 14 - 20 de septiembre
 Actividades Realizadas
 
 Curso de SIG aplicado a la Gestión Municipal.
