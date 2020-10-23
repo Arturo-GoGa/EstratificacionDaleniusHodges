@@ -31,9 +31,7 @@ Los intervalos se tomarán abiertos por la izquierda y cerrados por la derecha, 
 
 5.	Calcular la raíz cuadrada de frecuencia en cada clase.
 
-6.	Acumular la raíz cuadrada de las frecuencias en cada clase 
-
-![formula](https://github.com/Arturo-GoGa/IMAGENES/blob/main/1.PNG)
+6.	Acumular la raíz cuadrada de las frecuencias en cada clase         ![formula](https://github.com/Arturo-GoGa/IMAGENES/blob/main/1.PNG)
 
 7.	Dividir la suma de la raíz cuadrada de las frecuencias por el número de estratos:
 
