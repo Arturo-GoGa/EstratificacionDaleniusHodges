@@ -3,7 +3,7 @@
 ### Actividades Realizadas
 
 Se decidio crear un repositorio en GitHub con el proposito de tener una mejor comunicacion y un mejor control sobre las actividades realizadas.
-El repositorio se llama _"EstratificacionDaleniusHodges"_ su estrcutura es la siguiente 
+El repositorio se llama _"EstratificacionDaleniusHodges"_ su estructura es la siguiente 
 > Data 
 * Con los datos que se va a trabajar en el proyecto. 
 > Doc 
