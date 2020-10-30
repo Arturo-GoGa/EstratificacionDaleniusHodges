@@ -14,7 +14,7 @@ El repositorio se llama _"EstratificacionDaleniusHodges"_ su estructura es la si
 * Casos de prueba
 
 Ubicacion del Repositorio: https://github.com/Arturo-GoGa/EstratificacionDaleniusHodges 
-### Actividades para semana próxima
+### Actividades para la semana próxima
 
 - Avanzar con el desarrollo en el script.
 - Atender a observaciones sobre la creacion del repositorio.
@@ -24,3 +24,4 @@ Ubicacion del Repositorio: https://github.com/Arturo-GoGa/EstratificacionDaleniu
 Sin dudas
 
 Arturo Gonzalez.
+
