@@ -1,4 +1,4 @@
-## Semana del 14 - 20 de septiembre 
+## Semana 2 del 14 - 20 de septiembre del 2020
 
 ### Actividades Realizadas
 
