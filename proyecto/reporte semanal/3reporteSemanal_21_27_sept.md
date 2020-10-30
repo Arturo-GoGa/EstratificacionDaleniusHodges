@@ -1,4 +1,4 @@
-## Semana del 21 - 27 de septiembre 
+## Semana 3 del 21 - 27 de septiembre del 2020
 
 ### Actividades Realizadas
 
@@ -14,3 +14,4 @@
 - En cuestión de los casos de prueba el numero identificador se lo tengo que poner yo o se cuándo lo agregue a gvSIG me dará uno?
 - Para la parte de reportar fallo el enlace que marca es en general o debo poner alguno en específico. 
 
+Arturo González.
