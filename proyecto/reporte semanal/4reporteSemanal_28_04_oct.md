@@ -1,4 +1,4 @@
-## Semana del 28 - 4 de octubre 
+## Semana 4 del 28 - 4 de octubre del 2020 
 
 ### Actividades Realizadas
 
@@ -11,3 +11,5 @@
 ### Dudas 
 
 Sin dudas.
+
+Arturo Gonzalez.
