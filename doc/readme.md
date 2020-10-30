@@ -17,10 +17,10 @@ Dado un conjunto de _n_ observaciones de una variable x = (x<sub>1</sub> , x<sub
 3.	Calcular los límites para cada clase de la siguiente manera:
 
  
-> lim inf C<sub>k</sub> = min {x<sub>(i)</sub>} + (k — 1) ∗ ( max{x<sub>(i)</sub>} — min {x<sub>(i)</sub>} ) / J
+> lim inf C<sub>k</sub> = min {x<sub>(i)</sub>} + (k — 1) ∗ (( max{x<sub>(i)</sub>} — min {x<sub>(i)</sub>} ) / J)
  
 
-> lim sup C<sub>k</sub> = min {x<sub>(i)</sub>}+ (k) ∗ (max{x<sub>(i)</sub>} — min {x<sub>(i)</sub>}) / J
+> lim sup C<sub>k</sub> = min {x<sub>(i)</sub>}+ (k) ∗ ((max{x<sub>(i)</sub>} — min {x<sub>(i)</sub>}) / J)
  
 
 Los intervalos se tomarán abiertos por la izquierda y cerrados por la derecha, a excepción del primero que será cerrado por ambos lados.
@@ -31,7 +31,7 @@ Los intervalos se tomarán abiertos por la izquierda y cerrados por la derecha, 
 
 5.	Calcular la raíz cuadrada de frecuencia en cada clase.
 
-6.	Acumular la raíz cuadrada de las frecuencias en cada clase         ![formula](https://github.com/Arturo-GoGa/IMAGENES/blob/main/1.PNG)
+6.	Acumular la raíz cuadrada de las frecuencias en cada clase ![formula](https://github.com/Arturo-GoGa/IMAGENES/blob/main/1.PNG)
 
 7.	Dividir la suma de la raíz cuadrada de las frecuencias por el número de estratos:
 
