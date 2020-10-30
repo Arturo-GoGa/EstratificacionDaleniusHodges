@@ -1,4 +1,4 @@
-## Semana del 07 - 13 de septiembre del 2020
+## Semana 1 del 07 - 13 de septiembre del 2020
 
 ### Actividades Realizadas
 
