@@ -1,6 +1,6 @@
-### DH0002 Estratificación Univaria D&H
+### DH0001 Estratificación Univaria D&H
 #### Descripción.
-Cargaremos la capa y obtendremos la estratificacion Dalenius & Hodges
+Cargaremos la capa y obtendremos la estratificacion Dalenius & Hodges.
 Se espera obtener como resultados una nueva columna con un número identificador para el estrato que le corresponde a cada variable.
 
 
@@ -13,9 +13,9 @@ Se espera obtener como resultados una nueva columna con un número identificador
 #### Pasos.
 1. Cargar la capa ``Censo_Pob_Mun_Edomex.csv`` a la vista.
 2. Vamos a dar click en la pestaña ``Herramientas`` y a continuacion seleccionamos ``Geoprocesamientos".
-3. Del desplegado seleccionamos ``Caja de Herramientas``, de la ventana que se abre buscaremos ``Capas Vectoriales`` y los expandiremos.
+3. Del desplegado seleccionamos ``Caja de Herramientas``, de la ventana que se abre buscaremos ``Capas Vectoriales`` y lo expandiremos.
 4. Daremos doble click sobre ``Dalenius& Hodges`` y se abrira una ventana.
-5. Sobre la ventana en la variable _"Capa de Entrada"_ escogeremos la capa ``Censo_Pob_Mun_Edomex.csv``, en la siguiente _"Campo"_ Seleccionamos el campo ``pobtot`` y por ultimo introduciremos en _"Estratos"_ el numero ``5``.
+5. Sobre la ventana en la variable _"Capa de Entrada"_ escogeremos la capa ``Censo_Pob_Mun_Edomex.csv``, despues en _"Campo"_ Seleccionamos ``pobtot`` y por ultimo introduciremos en _"Estratos"_ el numero ``5``.
 6. Daremos click en aceptar.
 18. Se crea una nueva columna en la tabla de atributos colocando el identificador a cada caso. 
 
