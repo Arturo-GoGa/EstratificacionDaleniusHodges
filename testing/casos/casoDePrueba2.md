@@ -22,6 +22,6 @@ Cargaremos la capa y abriremos las propiedades para modificar la simbologia.
 #### Resultados Esperados.
 Generara un Mapa como el Siguiente.
 
-![Mapa](https://github.com/Arturo-GoGa/IMAGENES/blob/main/Mapa_CECO.PNG)
+![Mapa](https://github.com/Arturo-GoGa/IMAGENES/blob/main/Map_CasoP_02.PNG)
 
 #### Reportar Fallo. 
