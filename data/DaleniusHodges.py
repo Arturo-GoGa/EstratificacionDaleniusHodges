@@ -112,17 +112,17 @@ class ventana(FormPanel):
                     break
       
     
-        #----- Paso10 CeaciÛn de nueva capa 
+        #----- Paso10 Ceaci√≥n de nueva capa 
         sourceSchema=sourceLayer.getSchema() #Obtengo el esquema de la capa origen
-        targetSchema=gvsig.createFeatureType(sourceSchema) #Creo/copio ese esquema, este ser· el de mi nueva capa
-        targetSchema.append("D/H", "INTEGER", 10)# AÒado al nuevo esquema el nuevo campo de tipo entero y tamaÒo 10
+        targetSchema=gvsig.createFeatureType(sourceSchema) #Creo/copio ese esquema, este ser√° el de mi nueva capa
+        targetSchema.append("D/H", "INTEGER", 10)# A√±ado al nuevo esquema el nuevo campo de tipo entero y tama√±o 10
         targetLayer=gvsig.createShape(targetSchema, prefixname="AGE_Clasificada") #Creo una nueva capa con el nuevo esquema
         targetStore=targetLayer.getFeatureStore() #Obtengo el feature store de la nueva capa
-        targetStore.edit() # Pongo en ediciÛn ese store
+        targetStore.edit() # Pongo en edici√≥n ese store
         for i in range(len(sourceFeatures)): #Recorro las features de la cap inicial
            newFeature=targetStore.createNewFeature(sourceFeatures[i]) #Creo nuevas features en el nuevo store a partir de las
                                                                       # features de la capa origen
-           newFeature.set("D/H",clasi[i]) # A esas nuevas features les asigno la clasificaciÛn de Dalenius and Hodges
+           newFeature.set("D/H",clasi[i]) # A esas nuevas features les asigno la clasificaci√≥n de Dalenius and Hodges
            targetStore.insert(newFeature) # Inserto las nuevas features en el store
         targetStore.finishEditing() # Una vez creadas y actualizadas las features termino edicion del store
         gvsig.currentView().addLayer(targetLayer) # Cargo la capa en la vista actual
