@@ -2,7 +2,7 @@
 
 ### Actividades Realizadas
 
-Ya me atore, ya lei algunas cosas de la documentacion pero no se que mas se le pude cambiar o agregar al script para que baje mas el uso de memmoria.
+Ya me atoré, ya leí algunas cosas de la documentación, pero no sé qué más se le pude cambiar o agregar al script para que baje más el uso de memoria.
 
 ### Actividades para semana próxima
 
@@ -10,7 +10,7 @@ Continuar investigando.
 
 ### Dudas
 
-Que herramienta mas espcificamente se ocuparia para grandes datos?
+¿Que herramienta más específicamente se ocuparía para grandes datos?
 
 
 Arturo González.
